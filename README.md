@@ -42,20 +42,93 @@ This project analyzes coffee shop sales data to identify key business trends suc
 
 ---
 
-## 📈 Key Analysis Highlights
-- Identified peak sales hours between morning and mid-day periods  
-- Coffee category contributes the highest percentage of total sales  
-- Large and Regular sizes dominate order distribution  
-- Barista Espresso and Brewed Chai Tea are top-selling products  
-- Store-wise analysis shows consistent performance across locations  
+## 📊 Sales Timing Insights (Peak Hours)
+- Orders peak between **8 AM – 10 AM**
+- Sales decline after afternoon and drop significantly by evening  
+
+**Insight:**  
+Morning hours are the **primary revenue-driving period**  
+
+**Action:**  
+- Increase staffing during peak hours  
+- Introduce morning combo offers and promotions  
 
 ---
 
-## 💡 Business Insights
-- Helps optimize staffing during peak hours  
-- Supports inventory planning based on product demand  
-- Enables better product positioning and promotions  
-- Assists in understanding customer preferences and buying behavior  
+## 🏪 Store Performance Insights
+- **Hell’s Kitchen and Astoria** generate higher revenue  
+- **Lower Manhattan** shows slightly lower performance  
+
+**Insight:**  
+Certain locations act as **key revenue contributors**  
+
+**Action:**  
+- Replicate successful strategies across all stores  
+- Analyze and improve underperforming locations  
+
+---
+
+## ☕ Product Performance Insights
+- **Barista Espresso** is the top-selling product  
+- **Brewed Chai Tea** and **Hot Chocolate** also perform strongly  
+
+**Insight:**  
+Hot beverages dominate customer preferences  
+
+**Action:**  
+- Focus marketing on top-performing products  
+- Bundle weaker products with bestsellers  
+
+---
+
+## 🧾 Category Contribution Insights
+- **Coffee category contributes the highest share (~39%)**  
+- Other categories like bakery contribute less  
+
+**Insight:**  
+The business is primarily **coffee-driven**  
+
+**Action:**  
+- Expand coffee offerings  
+- Upsell bakery items with coffee purchases  
+
+---
+
+## 📦 Order Size Behavior Insights
+- **Large and Regular sizes dominate majority of orders**  
+- Small size has the lowest demand  
+
+**Insight:**  
+Customers prefer **larger, value-based options**  
+
+**Action:**  
+- Promote size upgrades  
+- Focus marketing on larger sizes  
+
+---
+
+## 📅 Weekday Trends Insights
+- Orders remain fairly consistent across weekdays  
+- Slight peaks observed on **Monday and Friday**  
+
+**Insight:**  
+Demand is **stable throughout the week**  
+
+**Action:**  
+- Maintain consistent staffing levels  
+- Introduce weekday loyalty or retention offers  
+
+---
+
+## 🔥 Overall Business Insight
+- The business is **morning-driven, coffee-focused, and volume-based**  
+
+**Insight:**  
+Operational efficiency and speed are critical for maximizing revenue  
+
+**Action:**  
+- Optimize operations for high-volume morning sales  
+- Focus on consistency and fast service  
 
 ---
 
