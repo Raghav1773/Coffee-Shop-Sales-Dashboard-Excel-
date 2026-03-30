@@ -33,15 +33,12 @@ This project analyzes coffee shop sales data to identify key business trends suc
 
 ### 🔹 Dataset Preview
 <img width="808" height="454" alt="Dataset" src="https://github.com/user-attachments/assets/f32cdddf-1e23-4522-b162-565d4945e303" />
-" />
 
 ### 🔹 Dashboard Overview
 <img width="808" height="454" alt="Dashboard" src="https://github.com/user-attachments/assets/46742c77-f4d2-4350-9b08-ed8a2ef27987" />
-" />
 
 ### 🔹 Pivot Analysis
 <img width="808" height="454" alt="Pivot Tables" src="https://github.com/user-attachments/assets/2ada262a-57d8-472f-a138-2ce878370315" />
-" />
 
 ---
 
